@@ -43,7 +43,7 @@ export default class Calculator extends React.Component {
             </div>
             <div className="verticalBtn">
               <button type="button" className="btnOrange" onClick={this.valbutton}>÷</button>
-              <button type="button" className="btnOrange" onClick={this.valbutton}>*</button>
+              <button type="button" className="btnOrange" onClick={this.valbutton}>x</button>
               <button type="button" className="btnOrange" onClick={this.valbutton}>-</button>
               <button type="button" className="btnOrange" onClick={this.valbutton}>+</button>
             </div>

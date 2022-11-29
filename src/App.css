@@ -1,0 +1,46 @@
+/* Calculator.js */
+.calcContainer {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.calc {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.output {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  background-color: #858693;
+  color: white;
+  height: 3em;
+  width: 100%;
+}
+
+.horizontalBtn {
+  display: flex;
+  flex-direction: row;
+}
+
+.verticalBtn {
+  display: flex;
+  flex-direction: column;
+}
+
+.btnGray {
+  background-color: #e0e0e0;
+}
+
+.btnOrange {
+  background-color: #f5913e;
+}
+
+button {
+  border: 0.5px solid #d1d1d1;
+  width: 4em;
+  height: 3em;
+  font-size: larger;
+}

@@ -38,9 +38,9 @@
 
 # 📖 [Math Magician] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> This web application show a Calculator. It will help you with daily activities.
 
-**[Math Magician]** is a...
+**[Math Magician]** is online Calculator.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -53,29 +53,13 @@
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[React js]**
+- **[Components]**
+- **[CSS]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,9 +67,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://storres20.github.io/math-magic/build)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,59 +75,42 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
 
-<!--
-Example command:
-
 ```sh
- gem install rails
+ install nodejs
+ install git
 ```
- -->
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone https://github.com/storres20/math-magic.git
 ```
---->
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
 ```sh
-  cd my-project
-  gem install
+  cd math-magic
+  npm install
 ```
---->
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
 ```sh
-  rails server
+  npm start
 ```
---->
 
 ### Run tests
 
@@ -163,13 +128,9 @@ Example command:
 
 You can deploy this project using:
 
-<!--
-Example:
-
 ```sh
-
+  npm run build
 ```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -177,19 +138,11 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@storres20](https://github.com/storres20)
+- Twitter: [@italolonkan](https://twitter.com/italolonkan)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/italo-lon-kan)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,11 +150,9 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Class and function components]**
+- [ ] **[React js]**
+- [ ] **[Linters]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -211,7 +162,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/storres20/math-magic/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -219,9 +170,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project please give it a star 🌟 😁
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -229,9 +178,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank...MICROVERSE
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -239,15 +186,13 @@ I would like to thank...
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+- **[is this project for free?]**
 
-- **[Question_1]**
+  - [Yes, it is. So, feel free to clone this repository]
 
-  - [Answer_1]
+- **[may I suggest changes?]**
 
-- **[Question_2]**
-
-  - [Answer_2]
+  - [Yes. If you find a bug, please create an ISSUE]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

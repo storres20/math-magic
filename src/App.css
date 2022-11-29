@@ -1,13 +1,13 @@
 /* Calculator.js */
 .calcContainer {
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
 }
 
 .calc {
   display: flex;
   flex-direction: column;
-  align-items: flex-end;
+  align-items: stretch;
 }
 
 .output {
@@ -43,4 +43,12 @@ button {
   width: 4em;
   height: 3em;
   font-size: larger;
+}
+
+.lastRow {
+  display: flex;
+}
+
+.zero {
+  flex-grow: 2;
 }

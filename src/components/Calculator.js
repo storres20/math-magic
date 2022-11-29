@@ -37,6 +37,11 @@ export default class Calculator extends React.Component {
               <button type="button" className="btnOrange">+</button>
             </div>
           </div>
+          <div className="lastRow">
+            <button type="button" className="btnGray zero">0</button>
+            <button type="button" className="btnGray">.</button>
+            <button type="button" className="btnOrange">=</button>
+          </div>
         </div>
       </div>
     );

@@ -5,7 +5,6 @@ import './App.css';
 import Navbar from './components/Navbar';
 import Calc from './pages/Calc';
 import Home from './pages/Home';
-import NotMatch from './pages/NotMatch';
 import Quote from './pages/Quote';
 
 function App() {
@@ -17,7 +16,6 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/calculator" element={<Calc />} />
         <Route path="/quote" element={<Quote />} />
-        <Route path="*" element={<NotMatch />} />
       </Routes>
 
     </div>

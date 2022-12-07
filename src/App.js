@@ -1,12 +1,25 @@
 import React from 'react';
+import { Route, Routes } from 'react-router-dom';
 import './App.css';
-import Calculator from './components/Calculator';
+// import Calculator from './components/Calculator';
+import Navbar from './components/Navbar';
+import Calc from './pages/Calc';
+import Home from './pages/Home';
+import NotMatch from './pages/NotMatch';
+import Quote from './pages/Quote';
 
 function App() {
   return (
     <div>
-      <h1>Math Magician Project</h1>
-      <Calculator />
+      <Navbar />
+
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/calculator" element={<Calc />} />
+        <Route path="/quote" element={<Quote />} />
+        <Route path="*" element={<NotMatch />} />
+      </Routes>
+
     </div>
   );
 }

@@ -1,0 +1,9 @@
+.CalcContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.CalcContainer > h2 {
+  margin: 0;
+}

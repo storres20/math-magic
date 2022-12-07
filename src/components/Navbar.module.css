@@ -1,0 +1,17 @@
+.NavContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.Links {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.Links > li {
+  list-style-type: none;
+}

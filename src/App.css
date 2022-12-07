@@ -1,7 +1,6 @@
 /* Calculator.js */
 .calcContainer {
   display: flex;
-  justify-content: center;
 }
 
 .calc {

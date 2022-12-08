@@ -144,6 +144,11 @@ You can deploy this project using:
 - Twitter: [@italolonkan](https://twitter.com/italolonkan)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/italo-lon-kan)
 
+👤 **Author1**
+
+- GitHub: [@boku52500](https://github.com/boku52500)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/giorgi-bokuchava-430252240/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->

@@ -10,7 +10,7 @@ describe('Testing operate.js', () => {
   });
 
   test('Minus operation', () => {
-    expect(operate(10, 54, '-')).toBe('64');
+    expect(operate(10, 54, '-')).toBe('-44');
   });
 
   test('Divide operation', () => {

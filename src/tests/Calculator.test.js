@@ -1,15 +1,10 @@
 import React from 'react';
-import { BrowserRouter } from 'react-router-dom';
 import renderer from 'react-test-renderer';
-import App from './App';
+import Calculator from '../components/Calculator';
 
 it('renders correctly', () => {
   const tree = renderer
-    .create(
-      <BrowserRouter>
-        <App />
-      </BrowserRouter>,
-    )
+    .create(<Calculator />)
     .toJSON();
   expect(tree).toMatchSnapshot();
 });
